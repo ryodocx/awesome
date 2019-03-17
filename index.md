@@ -1,5 +1,7 @@
 # mac
 * [macでGNUコマンド群をインストールする方法](https://yu8mada.com/2018/07/25/install-gnu-commands-on-macos-with-homebrew/)
+* [Workbench](https://github.com/mxcl/Workbench)
+  * ditfilesやbrewのインストール済パッケージリストをiCloudに同期できる
 
 # code editor
 ## cloud ide
