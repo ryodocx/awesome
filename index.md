@@ -12,7 +12,7 @@
 
 ## terminal emulator
 * [Hyper](https://hyper.is)
-  * plugableなターミナルエミュレーター
+  * pluggableなターミナルエミュレーター
 
 ## misc
 * [Repology](https://repology.org)
