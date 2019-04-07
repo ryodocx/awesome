@@ -14,6 +14,10 @@
 * [Hyper](https://hyper.is)
   * pluggableなターミナルエミュレーター
 
+## CLI tools
+* [lnav](https://github.com/tstack/lnav)
+  * ログファイルを見やすく表示するツール
+
 ## misc
 * [Repology](https://repology.org)
   * プラットフォーム毎であるパッケージの提供状況・バージョンをリストアップしている
